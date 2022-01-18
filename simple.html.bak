@@ -3,11 +3,7 @@
 	Copyright 2021 Git.Training
 -->
 <head>
-<<<<<<< HEAD
-	<title>An very serious title xD</title>
-=======
 	<title>A wesome site</title>
->>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -21,19 +17,11 @@
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-<<<<<<< HEAD
-			Text fun wow laugh xD
+			Just some content
 		</p>
 	</main>
 	<footer class="container">
 		<p>&copy; Le Company 2014</p>
-=======
-			Some stuff goes here heh3he
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Git training 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
